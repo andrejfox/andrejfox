@@ -6,7 +6,7 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrej-vencelj-b96113266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrej.vencelj.007@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrejfox) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrej.vencelj.007@gmail.com) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrejfox/andrejfox/output/github-snake-dark.svg" />
