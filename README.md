@@ -1,4 +1,4 @@
-# 💫 Who Am I?
+# 💫 Who am I?
 👋 Hey, I'm Andrej!<br><br>🔹 Student & Developer | Passionate about coding, automation, and open-source.<br>🔹 Interests | Technical Minecraft (TMC), scuba diving, and Linux tinkering.<br>🔹 Currently working on fetching data from The Finals API and integrating it with Google Sheets.<br><br>🚀 Always exploring new tech & small coding projects!
 
 ### 💻 Tech Stack:
