@@ -1,10 +1,9 @@
 # 💫 Who am I?
-👋 Hey, I'm **Andrej Vencelj!**  
-🔹 Aspiring **Software Engineer** passionate about **coding, automation, and open-source**.  
-🔹 Experienced in **Java**, **Rust**, and **system administration** on **Linux-based environments**.  
-🔹 I enjoy connecting software with hardware — from **ESP32 projects** to **API integrations**.  
+I am Andrej, a technology enthusiast and aspiring software engineer with a strong interest in backend development, systems programming, and practical automation. I enjoy working close to the underlying system, where performance, reliability, and clean architecture matter most. My work often focuses on building useful tools, experimenting with infrastructure, and deepening my understanding of how software interacts with hardware and operating systems.
 
-🚀 Always exploring new tech & small coding projects!
+I have hands-on experience with Java and Rust, and I regularly work within the Linux ecosystem for development, deployment, and self-hosting projects. I am particularly drawn to environments where I can combine programming with systems thinking — whether that involves containerization, embedded development with ESP32 and Arduino, or automating repetitive workflows.
+
+Through my projects, I aim to continuously expand my engineering skill set while maintaining a strong emphasis on simplicity, maintainability, and real-world usefulness. I am always exploring new technologies and looking for opportunities to build, learn, and contribute to open-source.
 
 
 ### 💻 Tech Stack:
